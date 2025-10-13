@@ -99,7 +99,7 @@ tqdm==4.67.1
 traitlets==5.14.3
 transformers==4.56.1
 triton==3.2.0
-trl==0.17.0
+trl==0.23.1
 typing_extensions==4.13.2
 typing-inspection==0.4.0
 tzdata==2025.2
