@@ -97,7 +97,7 @@ torchvision==0.23.0+cu128
 tornado==6.4.2
 tqdm==4.67.1
 traitlets==5.14.3
-transformers==4.56.1
+transformers==4.57.0
 triton==3.2.0
 trl==0.23.1
 typing_extensions==4.13.2
