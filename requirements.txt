@@ -6,7 +6,7 @@ annotated-doc==0.0.4
 annotated-types==0.7.0
 asttokens==3.0.0
 attrs==25.3.0
-av==14.3.0
+# Install av from conda-forge via environment.yaml to avoid source builds.
 bitsandbytes==0.49.2
 certifi==2025.4.26
 charset-normalizer==3.4.1
